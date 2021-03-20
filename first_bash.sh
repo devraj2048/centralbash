@@ -1,2 +1,1 @@
-#!bin/bash
-echo devraj
+echo hello 
